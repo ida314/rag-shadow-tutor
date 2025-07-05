@@ -1,4 +1,5 @@
 # rag-shadow-tutor
 
-![Python](htps://img.sheilds.io/badge/Python-3.11-blue)
+[![Python](https://img.shields.io/badge/Python_3.11-3776AB?logo=python&logoColor=fff)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
